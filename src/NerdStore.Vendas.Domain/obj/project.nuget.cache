@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyUaWqQiZ0bDdnDCdoSAJdJzrogC0WhOiveYtKcF0Nb5juG6KLvU7rAfLk16b87b+v2nykOKocbW67qAR0TI0A==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\projetos\\NerdStore\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
